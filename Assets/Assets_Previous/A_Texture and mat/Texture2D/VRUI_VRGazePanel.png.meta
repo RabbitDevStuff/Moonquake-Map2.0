@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 8afd7a0f9215fac449959c387e2e8943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: VRGazePanel_Top_Bg
+  - first:
+      213: 21300002
+    second: VRGazePanel_Top_Br
+  - first:
+      213: 21300004
+    second: VRGazePanel_Center_Bg
+  - first:
+      213: 21300006
+    second: VRGazePanel_Center_Br
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VRGazePanel_Top_Bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.07612
+        width: 100
+        height: 95.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4943907}
+      border: {x: 46, y: 7.92388, z: 46, w: 86}
+      outline:
+      - - {x: -37, y: -48.03806}
+        - {x: -50, y: -48.03806}
+        - {x: -50, y: 15.96194}
+        - {x: -18, y: 47.96194}
+        - {x: 18, y: 47.96194}
+        - {x: 50, y: 15.96194}
+        - {x: 50, y: -48.03806}
+        - {x: 26, y: -48.03806}
+        - {x: -35, y: -46.03806}
+      physicsShape:
+      - - {x: 50, y: 14.96194}
+        - {x: 17, y: 47.96194}
+        - {x: -17, y: 47.96194}
+        - {x: -50, y: 14.96194}
+        - {x: -50, y: -48.03806}
+        - {x: -37, y: -48.03806}
+        - {x: -35, y: -46.03806}
+        - {x: 37, y: -48.03806}
+        - {x: 50, y: -48.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e598c684df04f2290cbf740333adc9a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VRGazePanel_Top_Br
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1.07612
+        width: 100
+        height: 95.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4943907}
+      border: {x: 46, y: 7.92388, z: 46, w: 86}
+      outline:
+      - - {x: -37, y: -48.03806}
+        - {x: -50, y: -48.03806}
+        - {x: -50, y: 15.96194}
+        - {x: -18, y: 47.96194}
+        - {x: 18, y: 47.96194}
+        - {x: 50, y: 15.96194}
+        - {x: 50, y: -48.03806}
+        - {x: 26, y: -48.03806}
+        - {x: -35, y: -46.03806}
+      physicsShape:
+      - - {x: 50, y: 14.96194}
+        - {x: 17, y: 47.96194}
+        - {x: -17, y: 47.96194}
+        - {x: -50, y: 14.96194}
+        - {x: -50, y: -48.03806}
+        - {x: -37, y: -48.03806}
+        - {x: -35, y: -46.03806}
+        - {x: 37, y: -48.03806}
+        - {x: 50, y: -48.03806}
+      - - {x: -44, y: 11.96194}
+        - {x: 14, y: 41.96194}
+        - {x: 9, y: 1.961937}
+        - {x: -9, y: 0.961937}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ece747c3014e6f9c46fe94d1692df2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VRGazePanel_Center_Bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -8, y: -33}
+        - {x: -33, y: -18}
+        - {x: -33, y: 8}
+        - {x: -18, y: 33}
+        - {x: 7, y: 33}
+        - {x: 33, y: 7}
+        - {x: 33, y: -7}
+        - {x: 7, y: -33}
+      physicsShape:
+      - - {x: -5, y: 33}
+        - {x: -33, y: 5}
+        - {x: -33, y: -6}
+        - {x: -14, y: -33}
+        - {x: 6, y: -33}
+        - {x: 33, y: -14}
+        - {x: 33, y: 5}
+        - {x: 5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff1fd68a2f42c19a15763c35fd59b6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VRGazePanel_Center_Br
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -8, y: -33}
+        - {x: -33, y: -18}
+        - {x: -33, y: 8}
+        - {x: -18, y: 33}
+        - {x: 7, y: 33}
+        - {x: 33, y: 7}
+        - {x: 33, y: -7}
+        - {x: 7, y: -33}
+      physicsShape:
+      - - {x: -5, y: 33}
+        - {x: -33, y: 5}
+        - {x: -33, y: -6}
+        - {x: -14, y: -33}
+        - {x: 6, y: -33}
+        - {x: 33, y: -14}
+        - {x: 33, y: 5}
+        - {x: 5, y: 33}
+      - - {x: -27, y: -2}
+        - {x: -27, y: 2}
+        - {x: 2, y: 27}
+        - {x: 27, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028339d3efa4233aad2093a9ce32112
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VRGazePanel_Top_Bg: 21300000
+      VRGazePanel_Top_Br: 21300002
+      VRGazePanel_Center_Br: 21300006
+      VRGazePanel_Center_Bg: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

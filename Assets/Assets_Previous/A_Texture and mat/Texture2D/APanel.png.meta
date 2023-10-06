@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 541767b44a0136440bc2316c42f5393b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: APanel_Color
+  - first:
+      213: 21300002
+    second: APanel_Mask
+  - first:
+      213: 21300004
+    second: APanel_Chrome
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: APanel_Color
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 123
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 34, z: 78, w: 43}
+      outline:
+      - - {x: -41.5, y: -45}
+        - {x: -61.5, y: -28}
+        - {x: -61.5, y: 31}
+        - {x: -55.5, y: 45}
+        - {x: 44.5, y: 45}
+        - {x: 61.5, y: 42}
+        - {x: 61.5, y: -37}
+        - {x: 58.5, y: -45}
+      physicsShape:
+      - - {x: -35.5, y: 39}
+        - {x: -57.5, y: 19}
+        - {x: -57.5, y: 8}
+        - {x: -56.5, y: -17}
+        - {x: -33.5, y: -41}
+        - {x: 36.5, y: -41}
+        - {x: 55.5, y: -31}
+        - {x: 55.5, y: 17}
+        - {x: 46.5, y: 39}
+      - - {x: -34.5, y: 27}
+        - {x: 30.5, y: 32}
+        - {x: 48.5, y: -14}
+        - {x: -30.5, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059c250d5cb4d9c9e37ddfe3a559d95
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: APanel_Mask
+      rect:
+        serializedVersion: 2
+        x: 130.0761
+        y: 6.07612
+        width: 54.84776
+        height: 54.84776
+      alignment: 9
+      pivot: {x: 0.4908838, y: 0.4908839}
+      border: {x: 24.92387, y: 24.92388, z: 24.92388, w: 24.92388}
+      outline:
+      - - {x: -4.500004, y: -27.5}
+        - {x: -27.5, y: -4.499998}
+        - {x: -27.5, y: 4.500002}
+        - {x: -4.500004, y: 27.5}
+        - {x: 4.499996, y: 27.5}
+        - {x: 27.5, y: 4.500002}
+        - {x: 27.5, y: -4.499998}
+        - {x: 4.499996, y: -27.5}
+      physicsShape:
+      - - {x: -3.500004, y: 27.5}
+        - {x: -27.5, y: 3.500002}
+        - {x: -27.5, y: -3.499998}
+        - {x: -7.500004, y: -27.5}
+        - {x: 3.499996, y: -27.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 27.5, y: -3.499998}
+        - {x: 27.5, y: 3.500002}
+        - {x: 3.499996, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48c8db3c624a1a879cac500f8eb636
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: APanel_Chrome
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 123
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 34, z: 78, w: 43}
+      outline:
+      - - {x: 54.5, y: -45}
+        - {x: -43.5, y: -45}
+        - {x: -61.5, y: -41}
+        - {x: -61.5, y: 45}
+        - {x: 49.5, y: 45}
+        - {x: 61.5, y: 41}
+        - {x: 61.5, y: -27}
+      physicsShape:
+      - - {x: -7.5, y: -36}
+        - {x: -6.5, y: -39}
+        - {x: 26.5, y: -39}
+        - {x: 28.5, y: -37}
+        - {x: 27.5, y: -34}
+        - {x: -5.5, y: -34}
+      - - {x: -55.5, y: 16}
+        - {x: -55.5, y: 10}
+        - {x: -54.5, y: 8}
+        - {x: -51.5, y: 8}
+        - {x: -34.5, y: 26}
+        - {x: -34.5, y: 32}
+        - {x: -37.5, y: 33}
+        - {x: -41.5, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d297747990458da4db0db94bdc1ca0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      APanel_Color: 21300000
+      APanel_Chrome: 21300004
+      APanel_Mask: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

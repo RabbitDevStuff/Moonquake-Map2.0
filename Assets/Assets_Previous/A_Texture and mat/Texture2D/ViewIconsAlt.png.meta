@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 8974cd3464bbb3d44a55be066878199d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ViewIconsAlt_SolarSystem
+  - first:
+      213: 21300002
+    second: ViewIconsAlt_Nightsky
+  - first:
+      213: 21300004
+    second: ViewIconsAlt_SwitchPlanet
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ViewIconsAlt_SolarSystem
+      rect:
+        serializedVersion: 2
+        x: 25.07612
+        y: 153.0761
+        width: 77.84776
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 10.99999}
+        - {x: -17, y: 6.999992}
+        - {x: -17, y: 7.999992}
+        - {x: -16, y: 10.99999}
+      physicsShape:
+      - - {x: 35, y: 19.99999}
+        - {x: 23, y: 31.99999}
+        - {x: 16, y: 36.99999}
+        - {x: 7, y: 38.99999}
+        - {x: -14, y: 38.99999}
+        - {x: -28, y: 34.99999}
+        - {x: -34, y: 26.99999}
+        - {x: -39, y: 9.999991}
+        - {x: -39, y: -10.00001}
+        - {x: -34, y: -20.00001}
+        - {x: -23, y: -33.00001}
+        - {x: -9, y: -39.00001}
+        - {x: 9.999999, y: -39.00001}
+        - {x: 16, y: -38.00001}
+        - {x: 25, y: -34.00001}
+        - {x: 39, y: -13.00001}
+        - {x: 39, y: 6.999992}
+      - - {x: -27, y: 15.99999}
+        - {x: -27, y: 18.99999}
+        - {x: -29, y: 19.99999}
+        - {x: -28, y: 17.99999}
+        - {x: -24, y: 17.99999}
+        - {x: -19, y: 20.99999}
+        - {x: -18, y: 23.99999}
+        - {x: -18, y: 27.99999}
+        - {x: -20, y: 28.99999}
+        - {x: -19, y: 26.99999}
+        - {x: -16, y: 26.99999}
+        - {x: 18, y: -26.00001}
+      - - {x: -18, y: -14.00001}
+        - {x: -22, y: 4.999992}
+        - {x: -5, y: 21.99999}
+        - {x: 19, y: 2.999992}
+        - {x: 22, y: -17.00001}
+        - {x: 26, y: -15.00001}
+        - {x: 29, y: -8.000008}
+        - {x: 29, y: 6.999992}
+        - {x: 24, y: 18.99999}
+        - {x: 17, y: 27.99999}
+        - {x: 9, y: 28.99999}
+        - {x: -13, y: 28.99999}
+        - {x: -19, y: 23.99999}
+        - {x: -29, y: 7.999992}
+        - {x: -29, y: -8.000008}
+        - {x: -25, y: -20.00001}
+        - {x: -9.999999, y: -29.00001}
+        - {x: 9.999999, y: -29.00001}
+        - {x: 14, y: -26.00001}
+        - {x: 14, y: -24.00001}
+        - {x: 12, y: -20.00001}
+      - - {x: 21, y: -12.00001}
+        - {x: 13, y: -12.00001}
+        - {x: 12, y: -16.00001}
+        - {x: 12, y: -24.00001}
+        - {x: 16, y: -25.00001}
+        - {x: 24, y: -25.00001}
+        - {x: 25, y: -21.00001}
+        - {x: 25, y: -13.00001}
+      - - {x: -7, y: 15.99999}
+        - {x: -15, y: 10.99999}
+        - {x: -16, y: 7.999992}
+        - {x: -16, y: -11.00001}
+        - {x: -13, y: -16.00001}
+        - {x: 9, y: -16.00001}
+        - {x: 16, y: -12.00001}
+        - {x: 16, y: 8.999992}
+        - {x: 9, y: 15.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3800776c3134af69751e4a4f4c53f9a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIconsAlt_Nightsky
+      rect:
+        serializedVersion: 2
+        x: 148.0429
+        y: 157.0761
+        width: 94.88097
+        height: 66.91277
+      alignment: 9
+      pivot: {x: 0.4632867, y: 0.5219314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.48339, y: -33.53251}
+        - {x: -47.48339, y: -7.532509}
+        - {x: -47.48339, y: 33.46749}
+        - {x: -25.48339, y: 33.46749}
+        - {x: 47.51661, y: 1.467491}
+        - {x: 47.51661, y: -33.53251}
+      physicsShape:
+      - - {x: 12.51661, y: -27.53251}
+        - {x: 20.51661, y: -15.53251}
+        - {x: 36.5166, y: -17.53251}
+        - {x: 46.51661, y: -12.53251}
+        - {x: 46.51661, y: -6.532509}
+        - {x: 27.51661, y: 8.467491}
+        - {x: -6.483395, y: 19.46749}
+        - {x: -23.48339, y: 29.46749}
+        - {x: -31.48339, y: 31.46749}
+        - {x: -37.48339, y: 32.46749}
+        - {x: -44.48339, y: 30.46749}
+        - {x: -46.48339, y: 20.46749}
+        - {x: -46.48339, y: 11.46749}
+        - {x: -26.48339, y: 1.467491}
+        - {x: -9.483395, y: -4.532509}
+        - {x: -21.48339, y: -30.53251}
+        - {x: -21.48339, y: -32.53251}
+        - {x: -14.48339, y: -32.53251}
+        - {x: -11.48339, y: -31.53251}
+        - {x: -8.483395, y: -32.53251}
+        - {x: 11.5166, y: -32.53251}
+      - - {x: -39.48339, y: 18.46749}
+        - {x: -36.48339, y: 25.46749}
+        - {x: -37.48339, y: 26.46749}
+        - {x: -39.48339, y: 23.46749}
+        - {x: -41.48339, y: 16.46749}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88f617a681340cdab348771b3a6bdb1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIconsAlt_SwitchPlanet
+      rect:
+        serializedVersion: 2
+        x: 22.07612
+        y: 35.07612
+        width: 83.84776
+        height: 57.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -29}
+        - {x: 6, y: -27}
+        - {x: 6, y: 24}
+        - {x: 13, y: 29}
+        - {x: 14, y: 29}
+        - {x: 42, y: 0.9999981}
+        - {x: 42, y: -1.000002}
+        - {x: 28, y: -29}
+      - - {x: -14, y: -29}
+        - {x: -42, y: -5.000002}
+        - {x: -42, y: 0.9999981}
+        - {x: -14, y: 29}
+        - {x: -13, y: 29}
+        - {x: -6, y: 25}
+        - {x: -6, y: -27}
+        - {x: -9, y: -29}
+      physicsShape:
+      - - {x: -13, y: 28}
+        - {x: -14, y: 28}
+        - {x: -41, y: 0.9999981}
+        - {x: -41, y: -1.000002}
+        - {x: -14, y: -28}
+        - {x: -13, y: -28}
+        - {x: -7, y: -22}
+        - {x: -7, y: 22}
+      - - {x: 7, y: 22}
+        - {x: 7, y: -26}
+        - {x: 9, y: -28}
+        - {x: 14, y: -28}
+        - {x: 41, y: -5.000001}
+        - {x: 41, y: 0.9999981}
+        - {x: 14, y: 28}
+        - {x: 13, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a01e739d3416ca878a9961b6ad62c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ViewIconsAlt_Nightsky: 21300002
+      ViewIconsAlt_SwitchPlanet: 21300004
+      ViewIconsAlt_SolarSystem: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

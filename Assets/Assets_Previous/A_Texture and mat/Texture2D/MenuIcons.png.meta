@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: fe136ada9b973ee4d85d49daaa5a4cd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MenuIcon_View
+  - first:
+      213: 21300002
+    second: MenuIcon_Options
+  - first:
+      213: 21300004
+    second: MenuIcon_Find
+  - first:
+      213: 21300006
+    second: MenuIcon_Geo
+  - first:
+      213: 21300008
+    second: MenuIcon_Options_System
+  - first:
+      213: 21300010
+    second: MenuIcon_Quit
+  - first:
+      213: 21300012
+    second: MenuIcon_Spacecraft
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MenuIcon_View
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -31}
+        - {x: -31, y: -14}
+        - {x: -32, y: -12}
+        - {x: -32, y: 19}
+        - {x: -21, y: 32}
+        - {x: 19, y: 32}
+        - {x: 21, y: 31}
+        - {x: 32, y: 21}
+        - {x: 32, y: -23}
+        - {x: 29, y: -32}
+        - {x: -15, y: -32}
+      physicsShape:
+      - - {x: -1, y: -25}
+        - {x: -23, y: -14}
+        - {x: -22, y: 15}
+        - {x: 3, y: 30}
+        - {x: 2, y: 32}
+        - {x: -13, y: 32}
+        - {x: -18, y: 31}
+        - {x: -28, y: 20}
+        - {x: -32, y: 13}
+        - {x: -32, y: -19}
+        - {x: -14, y: -32}
+        - {x: 5, y: -32}
+        - {x: 5, y: -29}
+        - {x: 0, y: -25}
+      - - {x: 18, y: 26}
+        - {x: 17, y: 25}
+        - {x: 17, y: 21}
+        - {x: 22, y: 15}
+        - {x: 25, y: 9}
+        - {x: 22, y: 15}
+        - {x: 18, y: 18}
+        - {x: 14, y: 17}
+        - {x: -2, y: 18}
+        - {x: -7, y: 18}
+        - {x: -9.999999, y: 17}
+        - {x: -17, y: 9}
+        - {x: -17, y: 7}
+        - {x: -15, y: 5}
+        - {x: -12, y: 5}
+        - {x: -20, y: 5}
+        - {x: -13, y: 15}
+        - {x: -3, y: 20}
+        - {x: -2, y: 24}
+        - {x: -4, y: 26}
+        - {x: -13, y: 26}
+        - {x: -25, y: 12}
+        - {x: -25, y: -6}
+        - {x: -7, y: -19}
+        - {x: -3, y: -18}
+        - {x: -1, y: -16}
+        - {x: -2, y: 5}
+        - {x: 8, y: -5}
+        - {x: 9.999999, y: -5}
+        - {x: 13, y: -3}
+        - {x: 15, y: -5}
+        - {x: 17, y: -5}
+        - {x: 20, y: -6}
+        - {x: 22, y: -8}
+        - {x: 25, y: -7}
+        - {x: 27, y: -3}
+        - {x: 26, y: -3}
+        - {x: 27, y: -4}
+        - {x: 26, y: -5}
+        - {x: 24, y: -9.999999}
+        - {x: 20, y: -6}
+        - {x: 12, y: -4}
+        - {x: 11, y: -5}
+        - {x: 8, y: -5}
+        - {x: 5, y: -6}
+        - {x: 0, y: -11}
+        - {x: -1, y: -14}
+        - {x: -1, y: -21}
+        - {x: -5, y: -27}
+        - {x: 6, y: -31}
+        - {x: 23, y: -31}
+        - {x: 32, y: -19}
+        - {x: 32, y: 15}
+        - {x: 26, y: 26}
+      - - {x: -22, y: -9}
+        - {x: -23, y: -11}
+        - {x: -23, y: -18}
+        - {x: -9.999999, y: -26}
+        - {x: -2, y: -26}
+        - {x: -1, y: -25}
+        - {x: -1, y: -22}
+        - {x: -3, y: -20}
+        - {x: -18, y: -9}
+      - - {x: -9, y: -2}
+        - {x: -9.999999, y: -4}
+        - {x: -9.999999, y: -9}
+        - {x: -5, y: -12}
+        - {x: -1, y: -12}
+        - {x: 2, y: -11}
+        - {x: 2, y: -7}
+        - {x: -4, y: -2}
+      - - {x: 12, y: 31}
+        - {x: 2, y: 31}
+        - {x: -2, y: 29}
+        - {x: -2, y: 19}
+        - {x: -1, y: 13}
+        - {x: 12, y: 13}
+        - {x: 15, y: 16}
+        - {x: 16, y: 19}
+        - {x: 16, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a3aa18607489eb1c1533df9de9668
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Options
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -32}
+        - {x: -32, y: -27}
+        - {x: -32, y: 26}
+        - {x: -21, y: 32}
+        - {x: 22, y: 32}
+        - {x: 32, y: 21}
+        - {x: 32, y: -24}
+        - {x: 17, y: -32}
+      physicsShape:
+      - - {x: 32, y: -12}
+        - {x: 32, y: 12}
+        - {x: 31, y: 15}
+        - {x: 16, y: 29}
+        - {x: 12, y: 30}
+        - {x: 6, y: 32}
+        - {x: -14, y: 32}
+        - {x: -18, y: 31}
+        - {x: -31, y: 18}
+        - {x: -32, y: 9.999999}
+        - {x: -32, y: -15}
+        - {x: -31, y: -19}
+        - {x: -18, y: -31}
+        - {x: -11, y: -31}
+        - {x: -8, y: -32}
+        - {x: 6, y: -32}
+        - {x: 8, y: -28}
+        - {x: 15, y: -32}
+        - {x: 23, y: -26}
+      - - {x: -9.999999, y: -16}
+        - {x: -18, y: 2}
+        - {x: -17, y: 6}
+        - {x: -9.999999, y: 16}
+        - {x: 4, y: 18}
+        - {x: 18, y: 4}
+        - {x: 16, y: -9.999999}
+        - {x: 4, y: -18}
+      - - {x: -7, y: 14}
+        - {x: -14, y: 9}
+        - {x: -14, y: -5}
+        - {x: -9, y: -14}
+        - {x: 5, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 9}
+        - {x: 6, y: 14}
+      - - {x: -5, y: 1}
+        - {x: 1, y: 5}
+        - {x: 5, y: -1}
+        - {x: -2, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65bed9b0114fc1a6eb27944e25d07b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Find
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -24}
+        - {x: -9, y: -32}
+        - {x: -32, y: -32}
+        - {x: -32, y: 10}
+        - {x: -19, y: 32}
+        - {x: 28, y: 32}
+        - {x: 32, y: 22}
+        - {x: 32, y: -16}
+      physicsShape:
+      - - {x: 32, y: -8}
+        - {x: 32, y: 22}
+        - {x: 23, y: 32}
+        - {x: -13, y: 32}
+        - {x: -21, y: 17}
+        - {x: -22, y: 9}
+        - {x: -25, y: 1}
+        - {x: -32, y: -18}
+        - {x: -32, y: -29}
+        - {x: -25, y: -32}
+        - {x: -22, y: -32}
+        - {x: 14, y: -21}
+        - {x: 18, y: -19}
+        - {x: 21, y: -17}
+      - - {x: -8, y: -6}
+        - {x: -6, y: 19}
+        - {x: 19, y: 17}
+        - {x: 17, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d025a8c619482b9e39ae19501d20a7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Geo
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: -32, y: -21}
+        - {x: -32, y: 25}
+        - {x: -19, y: 32}
+        - {x: 16, y: 32}
+        - {x: 21, y: 31}
+        - {x: 32, y: 22}
+        - {x: 32, y: -24}
+        - {x: 16, y: -32}
+      physicsShape:
+      - - {x: 21, y: 29}
+        - {x: 14, y: 32}
+        - {x: -13, y: 32}
+        - {x: -18, y: 31}
+        - {x: -30, y: 22}
+        - {x: -32, y: 12}
+        - {x: -32, y: -17}
+        - {x: -21, y: -29}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 28, y: -20}
+        - {x: 32, y: -9.999999}
+        - {x: 32, y: 13}
+      - - {x: 3, y: -25}
+        - {x: 4, y: -22}
+        - {x: -3, y: -24}
+        - {x: -2, y: -25}
+      - - {x: -7, y: 22}
+        - {x: 7, y: 21}
+        - {x: 4, y: 26}
+        - {x: -4, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86fc27821e4285a7fd4a1173b8ee13
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Options_System
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -14}
+        - {x: -28, y: -6}
+        - {x: -30, y: -4}
+        - {x: -32, y: 0}
+        - {x: -32, y: 24}
+        - {x: -5, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -22}
+        - {x: 22, y: -32}
+        - {x: -32, y: -32}
+      physicsShape:
+      - - {x: 27, y: 32}
+        - {x: 0, y: 32}
+        - {x: -32, y: -15}
+        - {x: -32, y: -28}
+        - {x: -29, y: -32}
+        - {x: -11, y: -32}
+        - {x: 26, y: -6}
+        - {x: 32, y: 6}
+        - {x: 32, y: 26}
+      - - {x: 17, y: -4}
+        - {x: -5, y: -20}
+        - {x: -5, y: -28}
+        - {x: -4, y: -31}
+        - {x: 16, y: -31}
+        - {x: 29, y: -14}
+        - {x: 29, y: -8}
+        - {x: 25, y: -4}
+      - - {x: -3, y: -3}
+        - {x: -13, y: -13}
+      - - {x: -6, y: 28}
+        - {x: -15, y: 28}
+        - {x: -29, y: 17}
+        - {x: -30, y: 12}
+        - {x: -30, y: -6}
+        - {x: -21, y: -6}
+        - {x: -4, y: 14}
+        - {x: -4, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239537a1eef49d4b770023ac8eecc75
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Quit
+      rect:
+        serializedVersion: 2
+        x: 130.0267
+        y: 2.026751
+        width: 59.9465
+        height: 61.97325
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4836482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.999996, y: 23.98663}
+        - {x: -7.999996, y: 22.98663}
+        - {x: -7.999996, y: 30.98663}
+        - {x: 8.000004, y: 30.98663}
+        - {x: 8.000004, y: 17.98663}
+        - {x: 13, y: 23.98663}
+        - {x: 22, y: 23.98663}
+        - {x: 30.00001, y: 20.98663}
+        - {x: 30.00001, y: -27.01337}
+        - {x: 19, y: -31.01338}
+        - {x: -19, y: -31.01338}
+        - {x: -28, y: -22.01337}
+        - {x: -30, y: -9.013374}
+        - {x: -30, y: 12.98663}
+        - {x: -21, y: 23.98663}
+      physicsShape:
+      - - {x: 15, y: 22.98663}
+        - {x: 8.000004, y: 15.98663}
+        - {x: 8.000004, y: -15.01337}
+        - {x: -16, y: -6.013374}
+        - {x: -8.999996, y: 11.98663}
+        - {x: -9.999995, y: 19.98663}
+        - {x: -15, y: 22.98663}
+        - {x: -21, y: 22.98663}
+        - {x: -29.99999, y: 10.98663}
+        - {x: -29.99999, y: -13.01337}
+        - {x: -21, y: -26.01337}
+        - {x: -9.999995, y: -31.01337}
+        - {x: 8.000004, y: -31.01337}
+        - {x: 19, y: -29.01337}
+        - {x: 30, y: -19.01337}
+        - {x: 30, y: 10.98663}
+        - {x: 25, y: 22.98663}
+      - - {x: -5.999996, y: 30.98663}
+        - {x: -6.999996, y: 29.98663}
+        - {x: -6.999996, y: 2.986626}
+        - {x: -4.999996, y: 0.9866257}
+        - {x: 5.000003, y: 0.9866257}
+        - {x: 7.000004, y: 2.986626}
+        - {x: 7.000004, y: 29.98663}
+        - {x: 6.000004, y: 30.98663}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ff970e80d41099f5c147a9f7433cc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuIcon_Spacecraft
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: -32, y: -23}
+        - {x: -32, y: -2}
+        - {x: -16, y: -2}
+        - {x: -28, y: 22}
+        - {x: -28, y: 28}
+        - {x: -23, y: 32}
+        - {x: -8, y: 32}
+        - {x: 21, y: 8}
+        - {x: 32, y: -15}
+        - {x: 32, y: -23}
+        - {x: 25, y: -28}
+        - {x: 23, y: -28}
+        - {x: -10, y: -6}
+        - {x: -2, y: -14}
+        - {x: -2, y: -32}
+      physicsShape:
+      - - {x: -29, y: -3}
+        - {x: -32, y: -4}
+        - {x: -32, y: -15}
+        - {x: -31, y: -18}
+        - {x: -14, y: -32}
+        - {x: -3, y: -32}
+        - {x: -3, y: -13}
+        - {x: -15, y: -3}
+      - - {x: -9.999999, y: 32}
+        - {x: -22, y: 32}
+        - {x: -27, y: 28}
+        - {x: -27, y: 23}
+        - {x: -12, y: 1}
+        - {x: 1, y: -12}
+        - {x: 22, y: -27}
+        - {x: 28, y: -27}
+        - {x: 32, y: -20}
+        - {x: 32, y: -12}
+        - {x: 7, y: 19}
+      - - {x: -22, y: -9.999999}
+        - {x: -21, y: -14}
+        - {x: -14, y: -21}
+        - {x: -11, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3fab9a24445f9af751b2120197ac6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MenuIcon_Geo: 21300006
+      MenuIcon_Options_System: 21300008
+      MenuIcon_Find: 21300004
+      MenuIcon_Options: 21300002
+      MenuIcon_View: 21300000
+      MenuIcon_Spacecraft: 21300012
+      MenuIcon_Quit: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

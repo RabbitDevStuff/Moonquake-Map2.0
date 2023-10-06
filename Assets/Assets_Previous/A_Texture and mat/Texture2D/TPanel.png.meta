@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 39fc01b215d69d24081ac1ea96415c22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TPanel1_Bg
+  - first:
+      213: 21300002
+    second: TPanel1_Br
+  - first:
+      213: 21300004
+    second: Rect_Br
+  - first:
+      213: 21300006
+    second: Line_Bottom
+  - first:
+      213: 21300008
+    second: TPanel3_Bg
+  - first:
+      213: 21300010
+    second: TPanel3_Br
+  - first:
+      213: 21300012
+    second: TPanel4_Bg
+  - first:
+      213: 21300014
+    second: TPanel4_Br
+  - first:
+      213: 21300016
+    second: TPanel5_Bg
+  - first:
+      213: 21300018
+    second: TPanel5_Br
+  - first:
+      213: 21300020
+    second: TPanel_5_Small_L
+  - first:
+      213: 21300022
+    second: TPanel_5_Small_R
+  - first:
+      213: 21300024
+    second: TPanel_5_Large_LR
+  - first:
+      213: 21300026
+    second: TPanel_5_Small_LL
+  - first:
+      213: 21300028
+    second: TPanel_5_Large_LL
+  - first:
+      213: 21300030
+    second: TPanel_5_Large_RR
+  - first:
+      213: 21300032
+    second: TPanel_6_Bg
+  - first:
+      213: 21300034
+    second: TPanel_6_Br
+  - first:
+      213: 21300036
+    second: TPanel2_Bg
+  - first:
+      213: 21300038
+    second: TPanel2_Br
+  - first:
+      213: 21300040
+    second: TPanel_GlowFrame
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPanel1_Bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 68, z: 68, w: 68}
+      outline:
+      - - {x: -5.5, y: -68.5}
+        - {x: -68.5, y: -5.5}
+        - {x: -68.5, y: 5.5}
+        - {x: -5.5, y: 68.5}
+        - {x: 5.5, y: 68.5}
+        - {x: 68.5, y: 5.5}
+        - {x: 68.5, y: -5.5}
+        - {x: 5.5, y: -68.5}
+      physicsShape:
+      - - {x: -4.5, y: 68.5}
+        - {x: -68.5, y: 4.5}
+        - {x: -68.5, y: -4.5}
+        - {x: -4.5, y: -68.5}
+        - {x: 4.5, y: -68.5}
+        - {x: 68.5, y: -4.5}
+        - {x: 68.5, y: 4.5}
+        - {x: 4.5, y: 68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833185ec070042e79a78ae189a945cd2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel1_Br
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 137
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 68, z: 68, w: 68}
+      outline:
+      - - {x: -68.5, y: -5.5}
+        - {x: -68.5, y: 5.5}
+        - {x: -5.5, y: 68.5}
+        - {x: 5.5, y: 68.5}
+        - {x: 68.5, y: 5.5}
+        - {x: 68.5, y: -5.5}
+        - {x: 5.5, y: -68.5}
+        - {x: -5.5, y: -68.5}
+      physicsShape:
+      - - {x: -4.5, y: 68.5}
+        - {x: -68.5, y: 4.5}
+        - {x: -68.5, y: -4.5}
+        - {x: -4.5, y: -68.5}
+        - {x: 4.5, y: -68.5}
+        - {x: 68.5, y: -4.5}
+        - {x: 68.5, y: 4.5}
+        - {x: 4.5, y: 68.5}
+      - - {x: -63.5, y: -1.5}
+        - {x: -1.5, y: 63.5}
+        - {x: 1.5, y: 63.5}
+        - {x: 63.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927a946539cc44b1a05561da2367609f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rect_Br
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 249
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline:
+      - - {x: -3.5, y: -3.5}
+        - {x: -3.5, y: 3.5}
+        - {x: 3.5, y: 3.5}
+        - {x: 3.5, y: -3.5}
+      physicsShape:
+      - - {x: -3.5, y: 3.5}
+        - {x: -3.5, y: -3.5}
+        - {x: 3.5, y: -3.5}
+        - {x: 3.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52a65b5eb24892a17cc61ee4097c91
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line_Bottom
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 249
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -2}
+        - {x: -0.5, y: 2}
+        - {x: 0.5, y: 2}
+        - {x: 0.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1d651fca8944d98a1625f0a47c04cb
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel3_Bg
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 101
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 68, z: 68, w: 68}
+      outline:
+      - - {x: -23.5, y: -68.5}
+        - {x: -50.5, y: -41.5}
+        - {x: -50.5, y: 41.5}
+        - {x: -23.5, y: 68.5}
+        - {x: -12.5, y: 68.5}
+        - {x: 50.5, y: 5.5}
+        - {x: 50.5, y: -5.5}
+        - {x: -12.5, y: -68.5}
+      physicsShape:
+      - - {x: -22.5, y: 68.5}
+        - {x: -50.5, y: 40.5}
+        - {x: -50.5, y: -40.5}
+        - {x: -22.5, y: -68.5}
+        - {x: -13.5, y: -68.5}
+        - {x: 50.5, y: -4.5}
+        - {x: 50.5, y: 4.5}
+        - {x: -13.5, y: 68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ce9ff330443be87f27bc131814064
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel3_Br
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 101
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 68, z: 68, w: 68}
+      outline:
+      - - {x: -50.5, y: -41.5}
+        - {x: -50.5, y: 41.5}
+        - {x: -23.5, y: 68.5}
+        - {x: -12.5, y: 68.5}
+        - {x: 50.5, y: 5.5}
+        - {x: 50.5, y: -5.5}
+        - {x: -12.5, y: -68.5}
+        - {x: -23.5, y: -68.5}
+      physicsShape:
+      - - {x: -22.5, y: 68.5}
+        - {x: -50.5, y: 40.5}
+        - {x: -50.5, y: -40.5}
+        - {x: -22.5, y: -68.5}
+        - {x: -13.5, y: -68.5}
+        - {x: 50.5, y: -4.5}
+        - {x: 50.5, y: 4.5}
+        - {x: -13.5, y: 68.5}
+      - - {x: -45.5, y: -37.5}
+        - {x: -45.5, y: 37.5}
+        - {x: -16.5, y: 63.5}
+        - {x: 45.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177fb6992fdc4526980086fcd1ed8c43
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel4_Bg
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 183
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -9, y: -32.5}
+        - {x: -18, y: -32.5}
+        - {x: -18, y: 32.5}
+        - {x: -9, y: 32.5}
+        - {x: 18, y: 5.5}
+        - {x: 18, y: -5.5}
+      physicsShape:
+      - - {x: -18, y: 32.5}
+        - {x: -18, y: -32.5}
+        - {x: -10, y: -32.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 4.5}
+        - {x: -10, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0546e168254044a1545036a3891dd5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel4_Br
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 183
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -13, y: -26.5}
+        - {x: 13, y: -0.5}
+        - {x: -14, y: 27.5}
+      physicsShape:
+      - - {x: -18, y: 32.5}
+        - {x: -18, y: -32.5}
+        - {x: -10, y: -32.5}
+        - {x: 18, y: -4.5}
+        - {x: 18, y: 4.5}
+        - {x: -10, y: 32.5}
+      - - {x: -13, y: 27.5}
+        - {x: 13, y: 1.5}
+        - {x: 13, y: -1.5}
+        - {x: -13, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb22c6c9074201a7b26bb72b018d21
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel5_Bg
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 183
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: 5.5, y: -32.5}
+        - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 5.5, y: 32.5}
+        - {x: 32.5, y: 5.5}
+        - {x: 32.5, y: -5.5}
+      physicsShape:
+      - - {x: -32.5, y: 32.5}
+        - {x: -32.5, y: -32.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 32.5, y: -4.5}
+        - {x: 32.5, y: 4.5}
+        - {x: 4.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc80a4d57c4d07b0a4711be808b9c6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel5_Br
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 183
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: 5.5, y: -32.5}
+        - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 5.5, y: 32.5}
+        - {x: 32.5, y: 5.5}
+        - {x: 32.5, y: -5.5}
+      physicsShape:
+      - - {x: -32.5, y: 32.5}
+        - {x: -32.5, y: -32.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 32.5, y: -4.5}
+        - {x: 32.5, y: 4.5}
+        - {x: 4.5, y: 32.5}
+      - - {x: 0.5, y: -6.5}
+        - {x: 10.5, y: -6.5}
+        - {x: 1.5, y: -27.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -21.5, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13994e9df6d646acb53a422533f5e65a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Small_L
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 530
+        width: 17
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 2, w: 0}
+      outline:
+      - - {x: -8.5, y: -19.5}
+        - {x: -8.5, y: 19.5}
+        - {x: 8.5, y: 19.5}
+        - {x: 8.5, y: -19.5}
+      physicsShape:
+      - - {x: 0.5, y: 19.5}
+        - {x: -8.5, y: 11.5}
+        - {x: -8.5, y: -10.5}
+        - {x: -2.5, y: -19.5}
+        - {x: 8.5, y: -19.5}
+        - {x: 8.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb591f2740bd4d25a442c081a8a2fb13
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Small_R
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 530
+        width: 17
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 13, w: 0}
+      outline:
+      - - {x: -8.5, y: -19.5}
+        - {x: -8.5, y: 19.5}
+        - {x: 8.5, y: 19.5}
+        - {x: 8.5, y: -19.5}
+      physicsShape:
+      - - {x: -1.5, y: 19.5}
+        - {x: -8.5, y: 19.5}
+        - {x: -8.5, y: -19.5}
+        - {x: -0.5, y: -19.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 8.5, y: -5.5}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308eb3c4dc544f3acbc00087d27e1bf
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Large_LR
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline:
+      - - {x: -8, y: -24.5}
+        - {x: -18, y: -14.5}
+        - {x: -18, y: 11.5}
+        - {x: -12, y: 24.5}
+        - {x: 10, y: 24.5}
+        - {x: 18, y: 7.5}
+        - {x: 18, y: -12.5}
+        - {x: 8, y: -24.5}
+      physicsShape:
+      - - {x: -6, y: 24.5}
+        - {x: -9, y: 19.5}
+        - {x: -18, y: 9.5}
+        - {x: -18, y: -8.5}
+        - {x: -9, y: -24.5}
+        - {x: 6, y: -24.5}
+        - {x: 18, y: -6.5}
+        - {x: 18, y: 4.5}
+        - {x: 6, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b28104d59f4585a97f284801f9538c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Small_LL
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 530
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 0}
+      outline:
+      - - {x: -13.5, y: -19.5}
+        - {x: -13.5, y: 19.5}
+        - {x: 13.5, y: 19.5}
+        - {x: 13.5, y: -19.5}
+      physicsShape:
+      - - {x: -4.5, y: 19.5}
+        - {x: -13.5, y: 8.5}
+        - {x: -13.5, y: -10.5}
+        - {x: -10.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 13.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708f01baba849428f6e33522ccca4ce
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Large_LL
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 570
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline:
+      - - {x: -10.5, y: -24.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -7.5, y: 24.5}
+        - {x: 16.5, y: 24.5}
+        - {x: 16.5, y: -0.5}
+        - {x: 15.5, y: -10.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -24.5}
+      physicsShape:
+      - - {x: -4.5, y: 24.5}
+        - {x: -15.5, y: 10.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -9.5, y: -16.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd52f7f8c3c244668562e718826a49cb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_5_Large_RR
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 570
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline:
+      - - {x: 5.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+        - {x: 9.5, y: 24.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 16.5, y: -14.5}
+      physicsShape:
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: 20.5}
+        - {x: -13.5, y: 14.5}
+        - {x: -10.5, y: 9.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 4.5, y: -24.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 4.5, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe2249434ac423f9cdcd4c6a41d9e9c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_6_Bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline:
+      - - {x: -5.5, y: -17.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -17.5, y: 5.5}
+        - {x: -5.5, y: 17.5}
+        - {x: 11.5, y: 17.5}
+        - {x: 17.5, y: 6.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 6.5, y: -17.5}
+      physicsShape:
+      - - {x: -4.5, y: 17.5}
+        - {x: -17.5, y: 4.5}
+        - {x: -17.5, y: -4.5}
+        - {x: -4.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 4.5, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747abe44411546568f50bf63e79a69d9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_6_Br
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 620
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline:
+      - - {x: -5.5, y: -17.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -17.5, y: 5.5}
+        - {x: -5.5, y: 17.5}
+        - {x: 11.5, y: 17.5}
+        - {x: 17.5, y: 6.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 6.5, y: -17.5}
+      physicsShape:
+      - - {x: -4.5, y: 17.5}
+        - {x: -17.5, y: 4.5}
+        - {x: -17.5, y: -4.5}
+        - {x: -4.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 4.5, y: 17.5}
+      - - {x: -12.5, y: -1.5}
+        - {x: -12.5, y: 1.5}
+        - {x: 1.5, y: 12.5}
+        - {x: 12.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e5ad39e724eb19e5f5e9b908a4868
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel2_Bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -5.5, y: -32.5}
+        - {x: -32.5, y: -5.5}
+        - {x: -32.5, y: 5.5}
+        - {x: -5.5, y: 32.5}
+        - {x: 5.5, y: 32.5}
+        - {x: 32.5, y: 5.5}
+        - {x: 32.5, y: -5.5}
+        - {x: 5.5, y: -32.5}
+      physicsShape:
+      - - {x: -4.5, y: 32.5}
+        - {x: -32.5, y: 4.5}
+        - {x: -32.5, y: -4.5}
+        - {x: -4.5, y: -32.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 32.5, y: -4.5}
+        - {x: 32.5, y: 4.5}
+        - {x: 4.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d672d062da49ad96f9234063ba5e65
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel2_Br
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 183
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -5.5, y: -32.5}
+        - {x: -32.5, y: -5.5}
+        - {x: -32.5, y: 5.5}
+        - {x: -5.5, y: 32.5}
+        - {x: 5.5, y: 32.5}
+        - {x: 32.5, y: 5.5}
+        - {x: 32.5, y: -5.5}
+        - {x: 5.5, y: -32.5}
+      physicsShape:
+      - - {x: -4.5, y: 32.5}
+        - {x: -32.5, y: 4.5}
+        - {x: -32.5, y: -4.5}
+        - {x: -4.5, y: -32.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 32.5, y: -4.5}
+        - {x: 32.5, y: 4.5}
+        - {x: 4.5, y: 32.5}
+      - - {x: -27.5, y: -1.5}
+        - {x: -1.5, y: 27.5}
+        - {x: 27.5, y: 1.5}
+        - {x: 1.5, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada06abd75546d48a9f16efbcc4b3c3
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPanel_GlowFrame
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 269
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 45, y: 45, z: 45, w: 45}
+      outline:
+      - - {x: 21, y: 0}
+        - {x: 0, y: 11}
+        - {x: 0, y: 25}
+        - {x: -20, y: 0}
+        - {x: -25, y: 0}
+        - {x: 0, y: -22}
+        - {x: 0, y: -24}
+        - {x: 13, y: 0}
+      physicsShape:
+      - - {x: -34, y: -8}
+        - {x: -38, y: -8}
+        - {x: -39, y: -10}
+        - {x: -39, y: -37}
+        - {x: -37, y: -39}
+        - {x: -9, y: -39}
+        - {x: -8, y: -37}
+        - {x: -8, y: -33}
+        - {x: -32, y: -9}
+      - - {x: 33, y: -10}
+        - {x: 9, y: -32}
+        - {x: 8, y: -35}
+        - {x: 8, y: -39}
+        - {x: 39, y: -39}
+        - {x: 39, y: -10}
+        - {x: 37, y: -8}
+        - {x: 35, y: -8}
+      - - {x: -39, y: 39}
+        - {x: -39, y: 9}
+        - {x: -37, y: 8}
+        - {x: -33, y: 8}
+        - {x: -8, y: 33}
+        - {x: -8, y: 39}
+      - - {x: 10, y: 39}
+        - {x: 8, y: 37}
+        - {x: 8, y: 35}
+        - {x: 35, y: 8}
+        - {x: 37, y: 8}
+        - {x: 39, y: 10}
+        - {x: 39, y: 37}
+        - {x: 37, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997bb2583b234fa9b918c55cf8f72104
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rect_Br: 21300004
+      TPanel2_Bg: 21300036
+      TPanel1_Bg: 21300000
+      TPanel4_Br: 21300014
+      TPanel5_Bg: 21300016
+      TPanel_GlowFrame: 21300040
+      TPanel3_Bg: 21300008
+      TPanel_5_Large_LR: 21300024
+      TPanel4_Bg: 21300012
+      TPanel_5_Small_R: 21300022
+      TPanel_5_Small_LL: 21300026
+      TPanel_6_Bg: 21300032
+      TPanel3_Br: 21300010
+      TPanel1_Br: 21300002
+      TPanel_5_Large_LL: 21300028
+      TPanel_6_Br: 21300034
+      Line_Bottom: 21300006
+      TPanel_5_Small_L: 21300020
+      TPanel_5_Large_RR: 21300030
+      TPanel5_Br: 21300018
+      TPanel2_Br: 21300038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: f708210160cca8841b0eb85e22a22c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ViewIcon_Curiosity
+  - first:
+      213: 21300002
+    second: ViewIcon_Apollo11
+  - first:
+      213: 21300004
+    second: ViewIcon_ISS
+  - first:
+      213: 21300006
+    second: ViewIcon_SolarSystem
+  - first:
+      213: 21300008
+    second: ViewIcon_Nightsky
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 34
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ViewIcon_Curiosity
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -80}
+        - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+      physicsShape:
+      - - {x: -79.99999, y: 79.99999}
+        - {x: -79.99999, y: -79.99999}
+        - {x: 79.99999, y: -79.99999}
+        - {x: 79.99999, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8832a76a09b434780c91248312d9e5e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIcon_Apollo11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -80}
+        - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+      physicsShape:
+      - - {x: -79.99999, y: 79.99999}
+        - {x: -79.99999, y: -79.99999}
+        - {x: 79.99999, y: -79.99999}
+        - {x: 79.99999, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a403c3312654a3393c5b8395f32dcbd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIcon_ISS
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 352
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -80}
+        - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+      physicsShape:
+      - - {x: -79.99999, y: 79.99999}
+        - {x: -79.99999, y: -79.99999}
+        - {x: 79.99999, y: -79.99999}
+        - {x: 79.99999, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45fbf511c8c43d88a22cf430f797757
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIcon_SolarSystem
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -80}
+        - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+      physicsShape:
+      - - {x: -79.99999, y: 79.99999}
+        - {x: -79.99999, y: -79.99999}
+        - {x: 79.99999, y: -79.99999}
+        - {x: 79.99999, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608c6afe43d4116b5cc79ce3f5b67ad
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewIcon_Nightsky
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -80}
+        - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+      physicsShape:
+      - - {x: -79.99999, y: 79.99999}
+        - {x: -79.99999, y: -79.99999}
+        - {x: 79.99999, y: -79.99999}
+        - {x: 79.99999, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c49b03770487cb711c6783344e2a5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ViewIcon_SolarSystem: 21300006
+      ViewIcon_Curiosity: 21300000
+      ViewIcon_Nightsky: 21300008
+      ViewIcon_ISS: 21300004
+      ViewIcon_Apollo11: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

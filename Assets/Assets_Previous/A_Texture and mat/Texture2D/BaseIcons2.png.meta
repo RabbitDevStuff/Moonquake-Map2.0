@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 39b5ab24c2b5a584da95ca0003149bab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Email
+  - first:
+      213: 21300002
+    second: Icon_Web
+  - first:
+      213: 21300004
+    second: Icon_FB
+  - first:
+      213: 21300006
+    second: Icon_Audio
+  - first:
+      213: 21300008
+    second: Icon_Audio_Off
+  - first:
+      213: 21300010
+    second: Icon_List
+  - first:
+      213: 21300012
+    second: Icon_Circ
+  - first:
+      213: 21300014
+    second: Icon_Shop
+  - first:
+      213: 21300016
+    second: Icon_Eye
+  - first:
+      213: 21300018
+    second: Icon_Torchlight
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Email
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 10}
+        - {x: -16, y: -5}
+        - {x: -12, y: -11}
+        - {x: -10, y: -14}
+        - {x: -6, y: -15}
+        - {x: -9, y: -14}
+        - {x: -12, y: -11}
+        - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: -12, y: 11}
+      physicsShape:
+      - - {x: -10, y: -16}
+        - {x: -18, y: -5}
+        - {x: -10, y: 16}
+        - {x: 3, y: 18}
+        - {x: -6, y: 15}
+        - {x: -11, y: 12}
+        - {x: -14, y: -7}
+        - {x: -10, y: -13}
+        - {x: 3, y: -15}
+        - {x: 17, y: -15}
+        - {x: 25, y: -11}
+        - {x: 25, y: 18}
+        - {x: 18, y: 25}
+        - {x: -13, y: 25}
+        - {x: -25, y: 21}
+        - {x: -25, y: -15}
+        - {x: -14, y: -25}
+        - {x: 12, y: -25}
+        - {x: 18, y: -20}
+        - {x: 15, y: -15}
+        - {x: 12, y: -15}
+      - - {x: -3, y: -4}
+        - {x: -3, y: 2}
+        - {x: -1, y: 6}
+        - {x: 1, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69dfce5ede4292aafabd1515f67dca
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Web
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 76
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -9.5}
+        - {x: -38, y: 9.5}
+        - {x: 38, y: 9.5}
+        - {x: 38, y: -9.5}
+      physicsShape:
+      - - {x: -14, y: -8.5}
+        - {x: -12, y: -0.5}
+        - {x: -10, y: -7.5}
+        - {x: -9, y: -9.5}
+        - {x: 9, y: -9.5}
+        - {x: 10, y: -8.5}
+        - {x: 12, y: -2.5}
+        - {x: 15, y: -9.5}
+        - {x: 33, y: -9.5}
+        - {x: 36, y: -5.5}
+        - {x: 38, y: 6.5}
+        - {x: 38, y: 9.5}
+        - {x: -38, y: 9.5}
+        - {x: -38, y: 2.5}
+        - {x: -34, y: -8.5}
+        - {x: -32, y: -9.5}
+        - {x: -15, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea6a2abf604676b98285655ce4c70b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_FB
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -17.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -17.5, y: 17.5}
+        - {x: 17.5, y: 17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 3.5, y: -3.5}
+      physicsShape:
+      - - {x: 3.5, y: 6.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 17.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 2.5, y: -17.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 0.5, y: -2.5}
+        - {x: 2.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6c94d82374aa59a54b600b7e9bb3f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Audio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -22}
+        - {x: 5, y: -22}
+        - {x: -5, y: -22}
+        - {x: -25, y: -11}
+        - {x: -25, y: 11}
+        - {x: -10, y: 16}
+        - {x: -3, y: 22}
+        - {x: 5, y: 22}
+        - {x: 20, y: 22}
+        - {x: 25, y: 20}
+        - {x: 25, y: -17}
+      physicsShape:
+      - - {x: -25, y: -11}
+        - {x: -3, y: -22}
+        - {x: 4, y: -22}
+        - {x: 4, y: 22}
+        - {x: -3, y: 22}
+        - {x: -25, y: 11}
+      - - {x: 5, y: 22}
+        - {x: 5, y: -21}
+        - {x: 6, y: -22}
+        - {x: 15, y: -22}
+        - {x: 25, y: -17}
+        - {x: 25, y: 15}
+        - {x: 14, y: 22}
+      - - {x: 15, y: 5}
+        - {x: 11, y: 11}
+        - {x: 7, y: 11}
+        - {x: 5, y: 10}
+        - {x: 5, y: -10}
+        - {x: 7, y: -11}
+        - {x: 11, y: -11}
+        - {x: 14, y: -7}
+        - {x: 15, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf74c316ab401bb61583f6adc4954b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Audio_Off
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 43.92388
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5691665, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.038059, y: -22}
+        - {x: -4.961941, y: -17}
+        - {x: -4.961941, y: -16}
+        - {x: -12.96194, y: -22}
+        - {x: -21.96194, y: -22}
+        - {x: -21.96194, y: -13}
+        - {x: -10.96194, y: -2}
+        - {x: -20.96194, y: -11}
+        - {x: -21.96194, y: -11}
+        - {x: -21.96194, y: 11}
+        - {x: -6.961942, y: 16}
+        - {x: 0.03805923, y: 22}
+        - {x: 8.038059, y: 22}
+        - {x: 8.038059, y: 18}
+        - {x: 12.03806, y: 22}
+        - {x: 16.03806, y: 22}
+        - {x: 22.03806, y: 17}
+        - {x: 22.03806, y: 6}
+        - {x: 7.038059, y: -6}
+        - {x: 8.038059, y: -7}
+        - {x: 8.038059, y: -22}
+      physicsShape:
+      - - {x: 11.03806, y: 21}
+        - {x: -21.96194, y: -15}
+        - {x: -21.96194, y: -22}
+        - {x: -11.96194, y: -22}
+        - {x: 21.03806, y: 12}
+        - {x: 21.03806, y: 16}
+        - {x: 17.03806, y: 21}
+      - - {x: -3.961941, y: -16}
+        - {x: 1.038059, y: -22}
+        - {x: 7.038059, y: -22}
+        - {x: 7.038059, y: -7}
+        - {x: 4.038059, y: -7}
+        - {x: -3.961941, y: -13}
+      - - {x: 7.038059, y: 22}
+        - {x: 0.03805923, y: 22}
+        - {x: -21.96194, y: 11}
+        - {x: -21.96194, y: -10}
+        - {x: -19.96194, y: -10}
+        - {x: 7.038059, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3980113fb52348ea92ac725fec33bbf4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_List
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 9.5}
+        - {x: -25, y: 9.5}
+        - {x: -25, y: 20.5}
+        - {x: 25, y: 20.5}
+      - - {x: 25, y: -6.5}
+        - {x: -25, y: -6.5}
+        - {x: -25, y: 6.5}
+        - {x: 25, y: 6.5}
+      - - {x: 25, y: -20.5}
+        - {x: -25, y: -20.5}
+        - {x: -25, y: -9.5}
+        - {x: 25, y: -9.5}
+      physicsShape:
+      - - {x: -25, y: -20.5}
+        - {x: 25, y: -20.5}
+        - {x: 25, y: -9.5}
+        - {x: -25, y: -9.5}
+      - - {x: -25, y: -6.5}
+        - {x: 25, y: -6.5}
+        - {x: 25, y: 6.5}
+        - {x: -25, y: 6.5}
+      - - {x: -25, y: 20.5}
+        - {x: -25, y: 9.5}
+        - {x: 25, y: 9.5}
+        - {x: 25, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3f2bcede14e7f9a35475731e1a668
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Circ
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -28}
+        - {x: -32, y: -19}
+        - {x: -32, y: 31}
+        - {x: -29, y: 32}
+        - {x: 29, y: 32}
+        - {x: 32, y: 26}
+        - {x: 32, y: -17}
+        - {x: 31, y: -25}
+        - {x: 16, y: -32}
+        - {x: -15, y: -32}
+      physicsShape:
+      - - {x: -28, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf43076ef9c4fccba376156da406982
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Shop
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 47.92388
+        height: 40.92388
+      alignment: 9
+      pivot: {x: 0.5216606, y: 0.5009301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.96194, y: -20.46194}
+        - {x: -23.96194, y: -1.461937}
+        - {x: -23.96194, y: 20.53806}
+        - {x: 9.038061, y: 20.53806}
+        - {x: 24.03806, y: 15.53806}
+        - {x: 24.03806, y: 1.538063}
+        - {x: 21.03806, y: -20.46194}
+      physicsShape:
+      - - {x: 22.03806, y: 18.53806}
+        - {x: 4.038061, y: 20.53806}
+        - {x: -23.96194, y: 20.53806}
+        - {x: -23.96194, y: 13.53806}
+        - {x: -17.96194, y: 9.538063}
+        - {x: -9.96194, y: -18.46194}
+        - {x: -8.96194, y: -20.46194}
+        - {x: 17.03806, y: -20.46194}
+        - {x: 20.03806, y: -13.46194}
+        - {x: 24.03806, y: -4.461937}
+        - {x: 24.03806, y: 13.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85927b1c4daa49de80f50fe0427ed4e6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Eye
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99.02675
+        width: 50
+        height: 34.9465
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -17.5}
+        - {x: -25, y: -15.5}
+        - {x: -25, y: 14.5}
+        - {x: -16, y: 17.5}
+        - {x: 20, y: 17.5}
+        - {x: 25, y: 10.5}
+        - {x: 25, y: -12.5}
+        - {x: 21, y: -17.5}
+      physicsShape:
+      - - {x: -11, y: 17.5}
+        - {x: -22, y: 15.5}
+        - {x: -25, y: 9.500004}
+        - {x: -25, y: -11.5}
+        - {x: -18, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 25, y: -12.5}
+        - {x: 25, y: 8.500004}
+        - {x: 15, y: 17.5}
+      - - {x: -7, y: -5.499997}
+        - {x: -9, y: 2.500004}
+        - {x: 8, y: 4.500004}
+        - {x: 5, y: -7.499996}
+      - - {x: 6, y: 9.500004}
+        - {x: -9, y: 9.500004}
+        - {x: -10, y: 8.500004}
+        - {x: -10, y: -4.499996}
+        - {x: -8, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 10, y: -5.499997}
+        - {x: 10, y: 8.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe859a67cc40a28a77a282b9d0c8b5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Torchlight
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 87
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -21}
+        - {x: -26.5, y: 21}
+        - {x: -6.5, y: 21}
+        - {x: 42.5, y: 17}
+        - {x: 43.5, y: 17}
+        - {x: 43.5, y: -21}
+      - - {x: -27.5, y: -21}
+        - {x: -43.5, y: -21}
+        - {x: -43.5, y: 21}
+        - {x: -27.5, y: 21}
+      physicsShape:
+      - - {x: -43.5, y: 21}
+        - {x: -43.5, y: -21}
+        - {x: -27.5, y: -21}
+        - {x: -27.5, y: 21}
+      - - {x: -24.5, y: 21}
+        - {x: -25.5, y: 20}
+        - {x: -25.5, y: -21}
+        - {x: 6.5, y: -21}
+        - {x: 40.5, y: -17}
+        - {x: 43.5, y: -16}
+        - {x: 43.5, y: 17}
+        - {x: -9.5, y: 21}
+      - - {x: 1.5, y: 0}
+        - {x: 2.5, y: 2}
+        - {x: 5.5, y: 2}
+        - {x: 2.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f2494b7074261a5579dd3a2e3953d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Audio: 21300006
+      Icon_Web: 21300002
+      Icon_Email: 21300000
+      Icon_Circ: 21300012
+      Icon_Audio_Off: 21300008
+      Icon_FB: 21300004
+      Icon_List: 21300010
+      Icon_Shop: 21300014
+      Icon_Torchlight: 21300018
+      Icon_Eye: 21300016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
