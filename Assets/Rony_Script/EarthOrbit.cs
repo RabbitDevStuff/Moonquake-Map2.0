@@ -2,61 +2,44 @@ using UnityEngine;
 
 public class EarthOrbit : MonoBehaviour
 {
-    public Transform moon; // Reference to the Moon GameObject.
-    public float rotationSpeed = 10.0f; // Rotation speed of Earth on its own axis (degrees per second).
-    public float orbitSpeed = 30.0f; // Orbit speed around the Moon (degrees per second).
-    public Vector3 orbitAxis = Vector3.up; // Axis around which Earth orbits the Moon.
-    public float orbitalRadius = 5.0f; // Radius of the Earth's orbital circle.
+    public float rotationSpeed = 10.0f; // Rotation speed of the Earth on its axis
+    public float revolutionSpeed = 1.0f; // Revolution speed around the Sun
+    public float distanceFromSun = 5.0f; // Initial distance from the Sun
+    private Vector3 axisOfRotation = Vector3.up; // Earth's axis of rotation
+    public Transform sun; // Reference to the Sun Transform
 
-    private LineRenderer orbitPath;
-
-    void Start()
+    private void Start()
     {
-        // Create and configure the LineRenderer for the orbit path.
-        orbitPath = gameObject.AddComponent<LineRenderer>();
-        orbitPath.positionCount = 360; // Number of line segments to create a circle.
-        orbitPath.startWidth = 0.1f; // Width of the line.
-        orbitPath.endWidth = 0.1f;
+        // Find the Sun GameObject by tag or set the Sun reference manually
+        sun = GameObject.FindGameObjectWithTag("Sun").transform;
 
-        // Set the Earth's initial position.
-        UpdateOrbitPath();
+        if (sun == null)
+        {
+            Debug.LogError("Sun not found. Make sure you have a GameObject with the 'Sun' tag.");
+        }
+
+        // Set the initial position of the Earth
+        transform.position = sun.position + (transform.position - sun.position).normalized * distanceFromSun;
     }
 
     void Update()
     {
-        // Rotate Earth on its own axis.
-        transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
+        // Rotate the Earth on its own axis
+        transform.Rotate(axisOfRotation, rotationSpeed * Time.deltaTime);
 
-        // Orbit around the Moon.
-        OrbitAroundMoon();
+        // Orbit the Sun
+        OrbitAroundSun();
     }
 
-    void OrbitAroundMoon()
+    void OrbitAroundSun()
     {
-        if (moon != null)
-        {
-            // Calculate the orbit rotation.
-            Quaternion orbitRotation = Quaternion.AngleAxis(orbitSpeed * Time.deltaTime, orbitAxis);
+        // Calculate the direction to the Sun
+        Vector3 toSun = (sun.position - transform.position).normalized;
 
-            // Apply the orbit rotation relative to the Moon's position.
-            transform.position = orbitRotation * (transform.position - moon.position) + moon.position;
-            transform.rotation = orbitRotation * transform.rotation;
+        // Calculate the desired position based on the distance from the Sun
+        Vector3 desiredPosition = sun.position + toSun * distanceFromSun;
 
-            // Update the orbit path.
-            UpdateOrbitPath();
-        }
-    }
-
-    void UpdateOrbitPath()
-    {
-        // Draw a circle for the orbit path.
-        for (int i = 0; i < 360; i++)
-        {
-            float angle = i * Mathf.Deg2Rad;
-            float x = Mathf.Cos(angle) * orbitalRadius;
-            float z = Mathf.Sin(angle) * orbitalRadius;
-            Vector3 point = new Vector3(x, transform.position.y, z);
-            orbitPath.SetPosition(i, point);
-        }
+        // Smoothly interpolate the position to create an orbit effect
+        transform.position = Vector3.Lerp(transform.position, desiredPosition, Time.deltaTime * revolutionSpeed);
     }
 }
