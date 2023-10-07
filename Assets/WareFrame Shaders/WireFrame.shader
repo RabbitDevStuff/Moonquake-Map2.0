@@ -7,7 +7,7 @@ Shader "UnityLibrary/Effects/Wireframe"
 	{
 		_LineColor ("LineColor", Color) = (1,1,1,1)
 		_FillColor ("FillColor", Color) = (0,0,0,0)
-		_WireThickness ("Wire Thickness", RANGE(0, 800)) = 100
+		_WireThickness ("Wire Thickness", RANGE(0, 200)) = 100
 		[MaterialToggle] UseDiscard("Discard Fill", Float) = 1
  }
 
