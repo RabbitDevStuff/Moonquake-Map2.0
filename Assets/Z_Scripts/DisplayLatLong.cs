@@ -5,7 +5,7 @@ public class DisplayLatLong : MonoBehaviour
 {
     public Text latLongText;
     public Camera cam;
-    public float radius = 1f;
+    public float radius = 300f;
 
     void Update()
     {
@@ -19,5 +19,13 @@ public class DisplayLatLong : MonoBehaviour
 
             latLongText.text = "Latitude: " + latitude.ToString("F2") + ", Longitude: " + longitude.ToString("F2");
         }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.green; // Set the Gizmos color
+
+        // Draw a sphere Gizmo at the GameObject's position
+        Gizmos.DrawWireSphere(transform.position, radius);
     }
 }

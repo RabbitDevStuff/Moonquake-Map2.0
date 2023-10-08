@@ -11,8 +11,8 @@ public class PlayerCameraMovement : MonoBehaviour
     float speed = 180f;
 
 
-    float minFov = 35f;
-    float maxFov = 100f;
+    float minFov = 10f;
+    float maxFov = 200f;
     float sensitivity = 20f;
 
 
