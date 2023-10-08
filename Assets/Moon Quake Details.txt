@@ -1,1 +1,197 @@
 1971, 17 April
+Lat: 48
+Lon: 45
+Magnitute: 2.8
+
+
+
+1971, 20 May
+Lat: 42
+Lon: -24
+Magnitute: 2
+
+
+
+1971, 11 July
+Lat: 43
+Lon: -47
+Magnitute: 1.9
+
+
+
+1972, 2 January
+Lat: 54
+Lon: 101
+Magnitute: 1.9
+
+
+
+1972, 17 September
+Lat: 12
+Lon: 46
+Magnitute: 1
+
+
+1972, 06 December
+Lat: 51
+Lon: 45
+Magnitute: 1.4
+
+
+1972, 09 December
+Lat: -20
+Lon: -80
+Magnitute: 1.2
+
+
+1973, 08 February
+Lat: 33
+Lon: 35
+Magnitute: 0.8
+
+
+
+1973, 13 March
+Lat: -84
+Lon: -134
+Magnitute: 3.2
+
+
+
+1973, 20 June
+Lat: -1
+Lon: -71
+Magnitute: 2.2
+
+
+
+1973, 01 October
+Lat: -37
+Lon: -29
+Magnitute: 1.1
+
+
+
+1974, 23 February
+Lat: 36
+Lon: 16
+Magnitute: 0.7
+
+
+
+
+1974, 27 March
+Lat: -48
+Lon: -106
+Magnitute: 1.6
+
+
+
+1974, 19 April
+Lat: -37
+Lon: 42
+Magnitute: 0.9
+
+
+
+1974, 29 May
+Lat: 
+Lon: 
+Magnitute: 0.6
+
+
+
+
+1974, 11 July
+Lat: 21
+Lon: 88
+Magnitute: 2.7
+
+
+
+
+1975, 03 January
+Lat: 29
+Lon: -98
+Magnitute: 3.2
+
+
+
+1975, 12 January
+Lat: 75
+Lon: 40
+Magnitute: 1.7
+
+
+
+1975, 13 January
+Lat: -2
+Lon:- 51
+Magnitute: 1.1
+
+
+
+1975, 13 February
+Lat: -19
+Lon:- 26
+Magnitute: 1.4
+
+
+
+1975, 07 May
+Lat: -49
+Lon:- 45
+Magnitute: 1.3
+
+
+
+1975, 27 May
+Lat: 3
+Lon:- -58
+Magnitute: 1.4
+
+
+
+
+1975, 10 November
+Lat: -8
+Lon:- -64
+Magnitute: 1.8
+
+
+
+1976, 04 January
+Lat: 50
+Lon:- 30
+Magnitute: 1.8
+
+
+
+1976, 12 January
+Lat: 50
+Lon:- 30
+Magnitute: 1.8
+
+
+
+
+1976, 06 March
+Lat: 50
+Lon: -20
+Magnitute: 2.3
+
+
+
+
+1976, 08 March
+Lat: -19
+Lon: -12
+Magnitute: 1.8
+
+
+
+
+1976, 16 May
+Lat: 77
+Lon: -10
+Magnitute: 1.5
