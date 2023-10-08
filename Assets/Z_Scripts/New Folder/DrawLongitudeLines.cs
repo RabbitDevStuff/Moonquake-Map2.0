@@ -60,7 +60,7 @@ public class DrawLongitudeLines : MonoBehaviour
             LineRenderer longitudeLR = longitudeLine.AddComponent<LineRenderer>();
             longitudeLR.material = lineMaterial;
             //longitudeLR.startColor = longitudeLR.endColor = Color.red;
-            longitudeLR.startWidth = longitudeLR.endWidth = 0.01f;
+            longitudeLR.startWidth = longitudeLR.endWidth = 0.025f;
             longitudeLR.positionCount = numberOfLatitudeLines + 1;
 
             float theta = (360f / numberOfLongitudeLines) * i;

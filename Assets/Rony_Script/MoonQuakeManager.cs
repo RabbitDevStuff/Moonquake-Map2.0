@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MoonQuakeManager : MonoBehaviour
 {
@@ -7,6 +8,13 @@ public class MoonQuakeManager : MonoBehaviour
     public GameObject[] vcamObjects; // An array of Cinemachine Virtual Camera GameObjects
 
     private int activeZoneIndex = -1; // Index of the currently active Moon Quake Zone Object
+
+
+    void Start()
+    {
+        ActivateMoonQuakeZone(-1);
+
+    }
 
     public void ActivateMoonQuakeZone(int index)
     {
@@ -33,5 +41,10 @@ public class MoonQuakeManager : MonoBehaviour
                 objects[i].SetActive(i == index);
             }
         }
+    }
+
+    public void GoToLevelScene()
+    {
+        SceneManager.LoadScene("MoonMap");
     }
 }

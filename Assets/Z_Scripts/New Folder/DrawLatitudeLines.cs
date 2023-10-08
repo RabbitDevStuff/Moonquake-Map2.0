@@ -52,7 +52,7 @@ public class DrawLatitudeLines : MonoBehaviour
             lineObject.transform.parent = this.transform;
             LineRenderer lineRenderer = lineObject.AddComponent<LineRenderer>();
             lineRenderer.material = lineMaterial;
-            lineRenderer.widthMultiplier = 0.01f;
+            lineRenderer.widthMultiplier = 0.025f;
 
             float latitude = (i / (float)numberOfLines) * Mathf.PI - Mathf.PI / 2f;
             DrawLatitudeLine(lineRenderer, latitude);

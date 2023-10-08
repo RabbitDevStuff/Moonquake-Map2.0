@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class CameraShake : MonoBehaviour
 {
@@ -15,13 +16,9 @@ public class CameraShake : MonoBehaviour
         originalPosition = cameraTransform.localPosition;
     }
 
-    private void Update()
+    public void GoTOMenu()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Debug.Log("!");
-            Shake();
-        }
+        SceneManager.LoadScene("MainMenu");
     }
 
     public void Shake()

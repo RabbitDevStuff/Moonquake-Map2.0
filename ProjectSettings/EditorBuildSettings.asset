@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Simulation/MainMenu.unity
+    guid: b8c3749a5f9ccb049bf112a6b15e636a
+  - enabled: 1
+    path: Assets/Scenes/Simulation/MoonMap.unity
+    guid: 8e757b5cc0c8c444da98383a91d4ab57
   m_configObjects: {}
