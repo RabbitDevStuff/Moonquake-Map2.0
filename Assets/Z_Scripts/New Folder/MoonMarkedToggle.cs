@@ -9,6 +9,7 @@ public class MoonMarkedToggle : MonoBehaviour
     public int x;
     Renderer rend;
 
+    [SerializeField] GameObject markedTexts;
     [SerializeField] Text toggleText;
 
     void Start()
@@ -28,12 +29,14 @@ public class MoonMarkedToggle : MonoBehaviour
             x++;
             rend.sharedMaterial = materials[x];
             toggleText.text = "On";
+            markedTexts.SetActive(true);
         }
         else
         {
             x = 0;
             rend.sharedMaterial = materials[x];
             toggleText.text = "Off";
+            markedTexts.SetActive(false);
         }
     }
 

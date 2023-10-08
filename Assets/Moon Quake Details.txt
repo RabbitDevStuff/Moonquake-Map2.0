@@ -1,12 +1,12 @@
 1971, 17 April
-Lat: 48
-Lon: 45
+Lat: 48                     1
+Lon: 35
 Magnitute: 2.8
 
 
 
 1971, 20 May
-Lat: 42
+Lat: 42                     
 Lon: -24
 Magnitute: 2
 
@@ -73,8 +73,8 @@ Magnitute: 1.1
 
 
 1974, 23 February
-Lat: 36
-Lon: 16
+Lat: 36                     1
+Lon: -16
 Magnitute: 0.7
 
 
@@ -126,28 +126,28 @@ Magnitute: 1.7
 
 1975, 13 January
 Lat: -2
-Lon:- 51
+Lon: -51
 Magnitute: 1.1
 
 
 
 1975, 13 February
 Lat: -19
-Lon:- 26
+Lon: -26
 Magnitute: 1.4
 
 
 
 1975, 07 May
 Lat: -49
-Lon:- 45
+Lon: -45
 Magnitute: 1.3
 
 
 
 1975, 27 May
 Lat: 3
-Lon:- -58
+Lon: -58
 Magnitute: 1.4
 
 
@@ -155,22 +155,22 @@ Magnitute: 1.4
 
 1975, 10 November
 Lat: -8
-Lon:- -64
+Lon: 64
 Magnitute: 1.8
 
 
 
 1976, 04 January
 Lat: 50
-Lon:- 30
+Lon: 30
 Magnitute: 1.8
 
 
 
 1976, 12 January
-Lat: 50
-Lon:- 30
-Magnitute: 1.8
+Lat: 38
+Lon: 44
+Magnitute: 1.1
 
 
 
