@@ -1,8 +1,9 @@
 using UnityEngine;
+using UnityEngine.UI;
 
-public class MoonRotation : MonoBehaviour
+public class SunRotation : MonoBehaviour
 {
-    public float rotationSpeed = 10.0f; // Rotation speed in degrees per second.
+    public Slider rotationSpeedSlider; // Reference to the UI slider.
     public Vector3 rotationAxis = Vector3.up; // Rotation axis, you can change this in the Inspector.
     public bool isClockwise = false; // Whether the rotation is clockwise or counterclockwise.
     public bool rotateOnStart = true; // Start rotating when the game begins.
@@ -19,7 +20,7 @@ public class MoonRotation : MonoBehaviour
     {
         if (isRotating)
         {
-            RotateMoon();
+            RotateSun();
         }
     }
 
@@ -35,9 +36,10 @@ public class MoonRotation : MonoBehaviour
         isRotating = false;
     }
 
-    private void RotateMoon()
+    private void RotateSun()
     {
         float direction = isClockwise ? -1f : 1f;
-        transform.Rotate(rotationAxis, direction * rotationSpeed * Time.deltaTime);
+        float speed = rotationSpeedSlider.value * 6.0f; // Double the rotation speed.
+        transform.Rotate(rotationAxis, direction * speed * Time.deltaTime);
     }
 }
